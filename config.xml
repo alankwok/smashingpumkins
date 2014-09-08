@@ -5,10 +5,10 @@
 		versionCode = "10" 
 		version     = "1.0" >	
 	<name>猛烈南瓜在飯桌</name>
-	<description>在Openrice寫了十多年,累積三千篇食評的會員,現今開設個人部落格"猛烈南瓜在飯桌",繼續與大家分享飯桌上的眾生相.向大家推介香港九龍新界不論平貴國界美食.
-
-weibo:http://weibo.com/2082268121/profile/
-
+	<description>在Openrice寫了十多年,累積三千篇食評的會員,現今開設個人部落格"猛烈南瓜在飯桌",繼續與大家分享飯桌上的眾生相.向大家推介香港九龍新界不論平貴國界美食.
+
+weibo:http://weibo.com/2082268121/profile/
+
 </description>
 	<author href="http://eaaatup.com" email="alankwok@yahoo.com">Eaatup.com</author>
 	<preference name="permissions" value="none" />	
